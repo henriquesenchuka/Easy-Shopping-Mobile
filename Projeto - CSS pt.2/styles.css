@@ -85,7 +85,7 @@ a:nth-child(2) {
 }
 
 a:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 img {
